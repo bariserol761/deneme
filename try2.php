@@ -11,6 +11,7 @@
     <?php
 $c = 34;
 $x="sdad";
+$be="slm";
 ?>
     </p>
 </body>
